@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="531d9ced-7c72-41a6-92a4-94758c296261" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Back-end-WebSystem/src/main/java/br/com/grupoqualityambiental/backend/models/acesso/AcessoModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/Back-end-WebSystem/src/main/java/br/com/grupoqualityambiental/backend/models/acesso/AcessoModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Back-end-WebSystem/src/main/java/br/com/grupoqualityambiental/backend/models/acesso/BotsAcessoModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/Back-end-WebSystem/src/main/java/br/com/grupoqualityambiental/backend/models/acesso/DiversosAcessoModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Back-end-WebSystem/src/main/java/br/com/grupoqualityambiental/backend/repository/acesso/BotsAcessoRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/Back-end-WebSystem/src/main/java/br/com/grupoqualityambiental/backend/repository/acesso/BotsAcessoRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Back-end-WebSystem/src/main/java/br/com/grupoqualityambiental/backend/service/sistema/UploadSistemaService.java" beforeDir="false" afterPath="$PROJECT_DIR$/Back-end-WebSystem/src/main/java/br/com/grupoqualityambiental/backend/service/sistema/UploadSistemaService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Back-end-WebSystem/src/main/resources/nova db.mwb" beforeDir="false" afterPath="$PROJECT_DIR$/Back-end-WebSystem/src/main/resources/nova db.mwb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Back-end-WebSystem/src/main/resources/nova db.mwb.bak" beforeDir="false" afterPath="$PROJECT_DIR$/Back-end-WebSystem/src/main/resources/nova db.mwb.bak" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Back-end-WebSystem/src/test/java/br/com/grupoqualityambiental/backend/NewBackendApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/Back-end-WebSystem/src/test/java/br/com/grupoqualityambiental/backend/NewBackendApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Front-end-WebSystem/src/components/diversos/configs/roles/configsRoles.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/Front-end-WebSystem/src/components/diversos/configs/roles/configsRoles.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Front-end-WebSystem/src/components/modal/modals.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/Front-end-WebSystem/src/components/modal/modals.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Front-end-WebSystem/src/components/navbar/nav-bar-main.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/Front-end-WebSystem/src/components/navbar/nav-bar-main.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Front-end-WebSystem/src/lib/globalStates.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Front-end-WebSystem/src/lib/globalStates.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Front-end-WebSystem/src/lib/models.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Front-end-WebSystem/src/lib/models.ts" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2nW0Phw6JZp2vKglzg5hfbzEve5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "dev-update",
+    "kotlin-language-version-configured": "true",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-18abd8497189-intellij.indexing.shared.core-IU-241.14494.240" />
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-IU-241.14494.240" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="531d9ced-7c72-41a6-92a4-94758c296261" name="Changes" comment="" />
+      <created>1729073504612</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1729073504612</updated>
+      <workItem from="1729073506398" duration="3000" />
+      <workItem from="1729074010322" duration="4000" />
+      <workItem from="1732788341220" duration="23000" />
+    </task>
+    <servers />
+  </component>
+</project>
