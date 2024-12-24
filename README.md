@@ -59,6 +59,6 @@ Antes de começar, é necessário ter as seguintes ferramentas instaladas no seu
 
 1. **Clone o repositório do front-end**:
    ```bash
-   git clone https://github.com/usuario/projeto-front.git
-   cd projeto-front
+   git clone https://github.com/Lizandro-melo/WebSystem.git
+   cd WebSystem
    ```
